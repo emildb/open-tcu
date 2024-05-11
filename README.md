@@ -1,2 +1,3 @@
 # open-tcu
-An open source Transmission Control Unit. The TCU replaces the stock TCU/TCM/GCU, giving full control of the transmission.
+
+The Open-TCU project is a TCU project based on the Teensy platform. It provides the hardware, firmware and software components that make up a transmission control unit. 
